@@ -1,0 +1,9 @@
+{
+  "name": "@ollieorder/prettier-config",
+  "version": "1.0.0",
+  "description": "Ollie Order Prettier",
+  "main": "index.json",
+  "repository": "git@github.com:ollieorder/prettier-config.git",
+  "author": "Matt Vague <mattvague@gmail.com>",
+  "license": "MIT"
+}
